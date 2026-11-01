@@ -1,0 +1,6 @@
+Method,Final Success Rate (%),Success SD,Average Steps to Goal,First Successful Episode,Seeds Reaching 90%,Episodes to 90% Success
+Sparse Q-Learning,100.0,0.0,41.69,42.1,10,430.6
+Fixed PBRS Manhattan,0.15,0.47,41.67,9.3,0,
+Adaptive PBRS Manhattan,10.0,31.62,40.65,9.3,1,727.0
+Fixed PBRS Obstacle-Aware,100.0,0.0,40.25,9.1,10,86.1
+Adaptive PBRS Obstacle-Aware,70.7,47.22,68.78,9.1,8,213.25
