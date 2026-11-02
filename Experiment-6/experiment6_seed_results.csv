@@ -1,0 +1,51 @@
+Method,Seed,Final Success Rate (%),Average Steps to Goal,First Successful Episode,Episodes to 90% Success
+Sparse Q-Learning,0,100.0,40.58,27,401.0
+Sparse Q-Learning,1,100.0,42.62,26,368.0
+Sparse Q-Learning,2,100.0,40.505,33,279.0
+Sparse Q-Learning,3,100.0,40.475,6,228.0
+Sparse Q-Learning,4,100.0,40.03,27,367.0
+Sparse Q-Learning,5,100.0,42.605,34,295.0
+Sparse Q-Learning,6,100.0,42.23,19,279.0
+Sparse Q-Learning,7,100.0,42.465,39,306.0
+Sparse Q-Learning,8,100.0,42.885,2,541.0
+Sparse Q-Learning,9,100.0,40.25,18,298.0
+Fixed PBRS Manhattan,0,1.0,39.0,14,
+Fixed PBRS Manhattan,1,0.0,,29,
+Fixed PBRS Manhattan,2,100.0,40.135,21,113.0
+Fixed PBRS Manhattan,3,100.0,40.11,25,238.0
+Fixed PBRS Manhattan,4,0.0,,9,
+Fixed PBRS Manhattan,5,100.0,40.51,14,187.0
+Fixed PBRS Manhattan,6,100.0,40.15,28,410.0
+Fixed PBRS Manhattan,7,100.0,40.205,6,163.0
+Fixed PBRS Manhattan,8,0.0,,5,
+Fixed PBRS Manhattan,9,0.0,,6,
+Adaptive PBRS Manhattan,0,0.0,,14,
+Adaptive PBRS Manhattan,1,100.0,42.645,29,426.0
+Adaptive PBRS Manhattan,2,100.0,40.385,21,221.0
+Adaptive PBRS Manhattan,3,100.0,40.055,25,156.0
+Adaptive PBRS Manhattan,4,0.0,,9,
+Adaptive PBRS Manhattan,5,100.0,40.38,14,156.0
+Adaptive PBRS Manhattan,6,100.0,40.415,28,700.0
+Adaptive PBRS Manhattan,7,100.0,40.26,6,200.0
+Adaptive PBRS Manhattan,8,0.0,,5,
+Adaptive PBRS Manhattan,9,0.0,,6,
+Fixed PBRS Obstacle-Aware,0,100.0,39.89,11,87.0
+Fixed PBRS Obstacle-Aware,1,100.0,40.17,17,87.0
+Fixed PBRS Obstacle-Aware,2,100.0,40.27,23,77.0
+Fixed PBRS Obstacle-Aware,3,100.0,40.15,25,80.0
+Fixed PBRS Obstacle-Aware,4,100.0,40.47,9,83.0
+Fixed PBRS Obstacle-Aware,5,100.0,40.43,19,91.0
+Fixed PBRS Obstacle-Aware,6,100.0,40.445,19,87.0
+Fixed PBRS Obstacle-Aware,7,100.0,40.24,7,88.0
+Fixed PBRS Obstacle-Aware,8,100.0,40.1,8,77.0
+Fixed PBRS Obstacle-Aware,9,100.0,40.26,6,90.0
+Adaptive PBRS Obstacle-Aware,0,100.0,40.22,11,81.0
+Adaptive PBRS Obstacle-Aware,1,100.0,42.55,17,80.0
+Adaptive PBRS Obstacle-Aware,2,100.0,40.415,23,80.0
+Adaptive PBRS Obstacle-Aware,3,100.0,44.605,25,85.0
+Adaptive PBRS Obstacle-Aware,4,100.0,40.505,9,85.0
+Adaptive PBRS Obstacle-Aware,5,100.0,40.135,19,85.0
+Adaptive PBRS Obstacle-Aware,6,100.0,40.16,19,76.0
+Adaptive PBRS Obstacle-Aware,7,100.0,39.83,7,79.0
+Adaptive PBRS Obstacle-Aware,8,100.0,42.71,8,77.0
+Adaptive PBRS Obstacle-Aware,9,100.0,39.945,6,80.0
